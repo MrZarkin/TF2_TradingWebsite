@@ -1,0 +1,12 @@
+{
+    "BPTF_API_KEY": "676c9446093cf129850ed09a",
+    "BPTF_API_TOKEN": "5c16d539cf6c757b140de833",
+    "USE_HTTPS": false,
+    "PORT": 3000,
+    "APP": {
+        "PROFILES_OF_INTEREST": [
+            "76561198453530349",
+            "76561198275611213"
+        ]
+    }
+}
